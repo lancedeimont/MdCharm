@@ -1,4 +1,3 @@
-[MdCharm is no longer maintained!!!](https://github.com/zhangshine/MdCharm/issues/4)
 
 ### Dependencies
 #### Windows
@@ -17,9 +16,10 @@
 * check out
 
 ```
-git checkout git@github.com:zhangshine/MdCharm.git
+git checkout git@github.com:lancedeimont/MdCharm.git
 ```
 * Open "MdCharm.pro" by Qt Creator and click "Build"
 
 ### License
 The BSD 3-Clause License
+[Forked from zhangshine](https://github.com/zhangshine/MdCharm/issues/4)
